@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Programming/Studia/Studia/Studia.csproj": {}
+    "D:\\Programming\\Studia\\ProgramowanieWyklady\\ProgramowanieWyklady.csproj": {}
   },
   "projects": {
-    "/Users/mac/Programming/Studia/Studia/Studia.csproj": {
+    "D:\\Programming\\Studia\\ProgramowanieWyklady\\ProgramowanieWyklady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Programming/Studia/Studia/Studia.csproj",
-        "projectName": "Studia",
-        "projectPath": "/Users/mac/Programming/Studia/Studia/Studia.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Programming/Studia/Studia/obj/",
+        "projectUniqueName": "D:\\Programming\\Studia\\ProgramowanieWyklady\\ProgramowanieWyklady.csproj",
+        "projectName": "ProgramowanieWyklady",
+        "projectPath": "D:\\Programming\\Studia\\ProgramowanieWyklady\\ProgramowanieWyklady.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Studia\\ProgramowanieWyklady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

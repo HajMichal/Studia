@@ -1,0 +1,14 @@
+D:\Programming\studia\ProgramowanieWyklady\bin\Debug\net7.0\ProgramowanieWyklady.exe
+D:\Programming\studia\ProgramowanieWyklady\bin\Debug\net7.0\ProgramowanieWyklady.deps.json
+D:\Programming\studia\ProgramowanieWyklady\bin\Debug\net7.0\ProgramowanieWyklady.runtimeconfig.json
+D:\Programming\studia\ProgramowanieWyklady\bin\Debug\net7.0\ProgramowanieWyklady.dll
+D:\Programming\studia\ProgramowanieWyklady\bin\Debug\net7.0\ProgramowanieWyklady.pdb
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ProgramowanieWyklady.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ProgramowanieWyklady.AssemblyInfoInputs.cache
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ProgramowanieWyklady.AssemblyInfo.cs
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ProgramowanieWyklady.csproj.CoreCompileInputs.cache
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ProgramowanieWyklady.dll
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\refint\ProgramowanieWyklady.dll
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ProgramowanieWyklady.pdb
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ProgramowanieWyklady.genruntimeconfig.cache
+D:\Programming\studia\ProgramowanieWyklady\obj\Debug\net7.0\ref\ProgramowanieWyklady.dll
