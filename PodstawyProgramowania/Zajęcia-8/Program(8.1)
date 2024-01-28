@@ -26,6 +26,9 @@ internal class Program
 				Console.WriteLine("Ocena poza zakresem");
 			};
 		} while (true);
+  		marks.Sort();
+  		marks.RemoveAt(0);
+    		marks.RemoveAt(marks.Count - 1);
 		foreach (int mark in marks)
 		{
 			sum += mark;
