@@ -4,7 +4,7 @@ namespace Zbrojenie
 	{
 		protected string Model;
 
-		public Magazynek (string nazwa, string adres, string nip, int iloscKol, string rodzajStali, double kaliber,  string model  ):base(nazwa, adres, nip)
+		public Magazynek (string nazwa, string adres, string nip, string model):base(nazwa, adres, nip)
 		{
 			Model = model;
 		}

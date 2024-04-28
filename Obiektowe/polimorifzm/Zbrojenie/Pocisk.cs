@@ -4,7 +4,7 @@ namespace Zbrojenie
 	{
 		private double Kaliber;
 
-    public Pocisk(string nazwa, string adres, string nip, double kaliber) : base(nazwa, adres, nip)
+    public Pocisk(string nazwa, string adres, string nip, double kaliber,  string model):base(nazwa, adres, nip, model)
     {
         Kaliber = kaliber;
     }

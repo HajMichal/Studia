@@ -4,7 +4,7 @@ namespace Zbrojenie
 	{
 		private int IloscKol;
 
-		public Srut(string nazwa, string adres, string nip, int iloscKol, string rodzajStali):base(nazwa, adres, nip)
+		public Srut(string nazwa, string adres, string nip, int iloscKol, string rodzajStali, double kaliber,  string model) : base(nazwa, adres, nip, rodzajStali, kaliber, model)
 		{
 			IloscKol = iloscKol;
 		}

@@ -4,7 +4,7 @@ namespace Zbrojenie
 	{
 		private string RodzajStali;
 
-		public Luska(string nazwa, string adres, string nip, string rodzajStali) : base(nazwa, adres, nip)
+		public Luska(string nazwa, string adres, string nip, string rodzajStali, double kaliber,  string model) : base(nazwa, adres, nip, kaliber, model)
 		{
 			RodzajStali = rodzajStali;
 		}
