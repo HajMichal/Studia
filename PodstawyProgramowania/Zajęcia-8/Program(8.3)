@@ -1,0 +1,38 @@
+using System.Collections;
+
+internal class Program
+{
+	private static void Main(string[] args)
+	{
+		ArrayList purcharse = new ArrayList();
+		string fruitOrAmount;
+		int amount;
+		int sum = 0;
+		do
+		{
+			Console.WriteLine("Wprowadź kwotę lub nazwę owocu, Jezeli chcesz zakonczyc wcinsij Enter");
+			fruitOrAmount = Console.ReadLine()!;
+			if (fruitOrAmount == "") break;
+			if (int.TryParse(fruitOrAmount, out amount))
+			{
+				purcharse.Add(amount);
+			}
+			else
+			{
+				purcharse.Add(fruitOrAmount);
+			}
+		} while (true);
+
+		foreach (object item in purcharse)
+		{
+			if (item is int)
+			{
+				sum += (int)item;
+			}
+		}
+		Console.WriteLine("Kwota za zakupy: " + sum);
+
+	}
+}
+
+

@@ -1,0 +1,25 @@
+using System.ComponentModel.Design.Serialization;
+
+internal class Program
+{
+	private static void Main(string[] args)
+	{
+		HashSet<string> names = new HashSet<string>();
+		do
+		{
+			Console.WriteLine("Wprowadź imię, Jezeli chcesz zakonczyc wcinsij Enter");
+			string name = Console.ReadLine()!;
+			name = name.ToUpper();
+			if (name == "") break;
+			if (name.Substring(0, 1) == "A")
+			{
+				names.Add(name);
+			}
+		} while (true);
+
+		Console.WriteLine("Liczba unikatowych imion: " + names.Count);
+
+	}
+}
+
+

@@ -1,0 +1,41 @@
+using System.ComponentModel.Design.Serialization;
+
+internal class Program
+{
+	private static void Main(string[] args)
+	{
+		List<int> marks = new List<int>();
+		int sum = 0;
+		Console.WriteLine("Wprowadź oceny cząstkowe");
+		do
+		{
+			Console.WriteLine("Podaj ocene od 2 do 5");
+			int mark = int.Parse(Console.ReadLine()!);
+			if (mark >= 2 && mark <= 5)
+			{
+				marks.Add(mark);
+				Console.WriteLine("Ocena dodana");
+			}
+			else if (mark == -1)
+			{
+				Console.WriteLine("Koniec dodawnia ocen");
+				break;
+			}
+			else
+			{
+				Console.WriteLine("Ocena poza zakresem");
+			};
+		} while (true);
+  		marks.Sort();
+  		marks.RemoveAt(0);
+    		marks.RemoveAt(marks.Count - 1);
+		foreach (int mark in marks)
+		{
+			sum += mark;
+		}
+		Console.WriteLine("Średnia arytmetyczna wynosi: " + (sum / marks.Count));
+	}
+
+}
+
+
