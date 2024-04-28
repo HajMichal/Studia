@@ -12,3 +12,17 @@
 /Users/mac/Programming/Studia/Studia/obj/Debug/net7.0/Studia.pdb
 /Users/mac/Programming/Studia/Studia/obj/Debug/net7.0/Studia.genruntimeconfig.cache
 /Users/mac/Programming/Studia/Studia/obj/Debug/net7.0/ref/Studia.dll
+/Users/mac/Programming/Studia/PodstawyProgramowania/bin/Debug/net7.0/Studia
+/Users/mac/Programming/Studia/PodstawyProgramowania/bin/Debug/net7.0/Studia.deps.json
+/Users/mac/Programming/Studia/PodstawyProgramowania/bin/Debug/net7.0/Studia.runtimeconfig.json
+/Users/mac/Programming/Studia/PodstawyProgramowania/bin/Debug/net7.0/Studia.dll
+/Users/mac/Programming/Studia/PodstawyProgramowania/bin/Debug/net7.0/Studia.pdb
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/Studia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/Studia.AssemblyInfoInputs.cache
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/Studia.AssemblyInfo.cs
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/Studia.csproj.CoreCompileInputs.cache
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/Studia.dll
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/refint/Studia.dll
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/Studia.pdb
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/Studia.genruntimeconfig.cache
+/Users/mac/Programming/Studia/PodstawyProgramowania/obj/Debug/net7.0/ref/Studia.dll

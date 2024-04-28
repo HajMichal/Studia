@@ -1,0 +1,14 @@
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/Zbrojenie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/Zbrojenie.AssemblyInfoInputs.cache
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/Zbrojenie.AssemblyInfo.cs
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/Zbrojenie.csproj.CoreCompileInputs.cache
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/bin/Debug/net7.0/Zbrojenie
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/bin/Debug/net7.0/Zbrojenie.deps.json
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/bin/Debug/net7.0/Zbrojenie.runtimeconfig.json
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/bin/Debug/net7.0/Zbrojenie.dll
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/bin/Debug/net7.0/Zbrojenie.pdb
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/Zbrojenie.dll
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/refint/Zbrojenie.dll
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/Zbrojenie.pdb
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/Zbrojenie.genruntimeconfig.cache
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/Zbrojenie/obj/Debug/net7.0/ref/Zbrojenie.dll
