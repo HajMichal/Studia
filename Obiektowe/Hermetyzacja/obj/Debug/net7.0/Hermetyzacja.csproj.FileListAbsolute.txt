@@ -1,0 +1,14 @@
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/bin/Debug/net7.0/Hermetyzacja
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/bin/Debug/net7.0/Hermetyzacja.deps.json
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/bin/Debug/net7.0/Hermetyzacja.runtimeconfig.json
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/bin/Debug/net7.0/Hermetyzacja.dll
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/bin/Debug/net7.0/Hermetyzacja.pdb
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/Hermetyzacja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/Hermetyzacja.AssemblyInfoInputs.cache
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/Hermetyzacja.AssemblyInfo.cs
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/Hermetyzacja.csproj.CoreCompileInputs.cache
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/Hermetyzacja.dll
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/refint/Hermetyzacja.dll
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/Hermetyzacja.pdb
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/Hermetyzacja.genruntimeconfig.cache
+/Users/mac/Programming/Studia/Obiektowe/Hermetyzacja/obj/Debug/net7.0/ref/Hermetyzacja.dll

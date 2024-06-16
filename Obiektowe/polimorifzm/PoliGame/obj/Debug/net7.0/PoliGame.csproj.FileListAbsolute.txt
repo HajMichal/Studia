@@ -1,0 +1,14 @@
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/bin/Debug/net7.0/PoliGame
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/bin/Debug/net7.0/PoliGame.deps.json
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/bin/Debug/net7.0/PoliGame.runtimeconfig.json
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/bin/Debug/net7.0/PoliGame.dll
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/bin/Debug/net7.0/PoliGame.pdb
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/PoliGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/PoliGame.AssemblyInfoInputs.cache
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/PoliGame.AssemblyInfo.cs
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/PoliGame.csproj.CoreCompileInputs.cache
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/PoliGame.dll
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/refint/PoliGame.dll
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/PoliGame.pdb
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/PoliGame.genruntimeconfig.cache
+/Users/mac/Programming/Studia/Obiektowe/polimorifzm/PoliGame/obj/Debug/net7.0/ref/PoliGame.dll
